@@ -1,0 +1,26 @@
+{
+  "name": "json-beautifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varghese77/JSON-Beautifier.git"
+  },
+  "keywords": [
+    "Node",
+    "Node",
+    "js",
+    "JavaScript",
+    "JSON"
+  ],
+  "author": "Roy Varghese Mathew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varghese77/JSON-Beautifier/issues"
+  },
+  "homepage": "https://github.com/Varghese77/JSON-Beautifier#readme"
+}
